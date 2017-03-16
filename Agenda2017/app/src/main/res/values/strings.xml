@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda2017</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <item name="btEntrar" type="id" />
+    <item name="tLogin" type="id" />
+    <item name="tSenha" type="id" />
+</resources>
